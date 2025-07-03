@@ -1,12 +1,46 @@
-# 🧾 Data Analysis - FoodHub
+# 🛵 Data Analysis - FoodHub
 
-Analyzed customer ordering behavior, restaurant performance, and delivery operations using FoodHub’s NYC-based order dataset. The goal was to generate business-oriented insights to improve customer satisfaction, optimize delivery logistics, and boost revenue from high-margin orders. The project highlights end-to-end exploratory data analysis (EDA) using Python, revealing patterns in cuisine demand, rating dynamics, and operational efficiency.
+This project explores customer ordering behavior, delivery efficiency, and restaurant performance using FoodHub’s order dataset. As a Data Scientist for a food aggregator in New York, I conducted an end-to-end analysis to uncover patterns in customer preferences, identify drivers of high satisfaction, and evaluate operational bottlenecks. The insights helped shape strategic recommendations around customer loyalty, cuisine promotion, delivery optimization, and revenue growth. The analysis leveraged Python tools (Pandas, Matplotlib, Seaborn) to deliver actionable outcomes aimed at enhancing FoodHub’s business model and customer experience.
 
 ---
-
-## 🔍 Business Case
+## 🔍 Objective
 
 FoodHub, a food aggregator platform, wanted to leverage its historical order data to enhance app performance, streamline delivery, and identify key restaurant and cuisine trends. As a Data Scientist, I was tasked with answering critical business questions to guide product strategy, marketing, and operations.
+
+---
+## 🧾 Dataset Summary
+The FoodHub dataset contains order-level data from a New York-based food delivery aggregator platform. Each row represents a unique customer order and includes attributes related to the customer, restaurant, cuisine type, order cost, time of the week, customer ratings, food preparation time, and delivery duration. The dataset enables detailed analysis of:
+* **Customer behavior:** frequency, loyalty, and weekend vs. weekday trends
+* **Restaurant and cuisine performance:** popularity, revenue contribution, and concentration of demand
+* **Operational metrics:** food preparation and delivery times across different customer satisfaction levels
+* **Revenue and cost analysis:** identifying high-margin orders and patterns in order value distribution
+* **Customer satisfaction:** exploring correlations between order characteristics and ratings
+  
+---
+
+## 🧪 Analytical Approach
+
+To extract business-relevant insights from FoodHub’s order dataset, I followed a structured data analysis pipeline focused on both descriptive and relational exploration:
+
+### 🔍 1. Univariate Analysis
+Examined the distribution of individual variables to understand customer and operational patterns:
+- Order volume trends across weekdays vs. weekends
+- Most popular restaurants and cuisine types
+- Customer rating distribution and frequency of missing ratings
+- Cost and duration (preparation/delivery) ranges and outliers
+
+### 🧭 2. Bivariate Analysis
+Explored relationships between pairs of variables to uncover business-critical dynamics:
+- Cuisine type vs. frequency of orders
+- Order cost vs. customer rating trends
+- Restaurant popularity vs. revenue impact
+- Day of the week vs. delivery time
+
+### 📈 3. Correlation Analysis
+Quantified statistical relationships between numerical variables to identify influential drivers:
+- Evaluated how delivery time and preparation time relate to customer satisfaction
+- Assessed the influence of order value on received ratings
+- Identified mild negative correlation between long delivery times and high ratings
 
 ---
 
