@@ -1,4 +1,4 @@
-## 🧾 Project Summary
+# 🧾 Data Analysis - FoodHub
 
 Analyzed customer ordering behavior, restaurant performance, and delivery operations using FoodHub’s NYC-based order dataset. The goal was to generate business-oriented insights to improve customer satisfaction, optimize delivery logistics, and boost revenue from high-margin orders. The project highlights end-to-end exploratory data analysis (EDA) using Python, revealing patterns in cuisine demand, rating dynamics, and operational efficiency.
 
