@@ -55,7 +55,7 @@ Exploratory data analysis project using real customer order data from a New York
 ## ✉️ Let’s Connect
 
 📧 fernando88@gmail.com  
-🌍 [GitHub](https://github.com/fernandoorozco) • [LinkedIn](https://linkedin.com/)  
+🌍 [GitHub](https://github.com/fernando-orozcoa) • [LinkedIn](https://www.linkedin.com/in/forozco/)  
 
 ---
 
