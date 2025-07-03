@@ -22,6 +22,15 @@ Decision tree classification model to support targeted marketing:
 - Business recommendation: focus campaigns on high-income, high-spending, graduate-educated segments with families ≥ 3  
 - Suggests F1-optimized models for better recall–precision balance if misclassification risk rises
 
+### 🍽️ [Exploratory Data Analysis – FoodHub](projects/food-delivery-data-analysis) 
+Exploratory data analysis project using real customer order data from a New York-based food delivery aggregator:
+- Univariate, bivariate, and correlation analysis applied to cost, rating, cuisine, and delivery metrics
+- Identified high weekend activity (71%) and dominance of American, Japanese, and Italian cuisines
+- Found that 65% of customers are one-time buyers; proposed loyalty program and retargeting strategies
+- Faster delivery times linked to higher customer ratings; weekday operations flagged for efficiency improvement
+- High-cost orders (> $20) correlated with better ratings and higher margins—suggested upsell/cross-sell tactics
+- Business recommendations focus on customer retention, rating incentives, delivery optimization, and margin expansion
+
 ---
 
 ## 🛠 Tools & Techniques
