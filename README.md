@@ -14,7 +14,7 @@ Neural network built to detect early signs of mechanical failure in wind turbine
 - High-recall model optimization and cost analysis
 - Real-world application in preventive maintenance
 
-### 🏦 [Personal Loan Conversion Prediction – AllLife Bank](projects/personal-loan-prediction/)
+### 🏦 [Personal Loan Conversion Prediction – AllLife Bank](personal-loan-prediction/)
 Decision tree classification model to support targeted marketing:
 - Compares pre-pruning and post-pruning strategies  
 - Post-pruned tree highlighted income, CCAvg, family size, and education as key predictors  
