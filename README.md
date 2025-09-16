@@ -14,6 +14,15 @@ Neural network built to detect early signs of mechanical failure in wind turbine
 - High-recall model optimization and cost analysis
 - Real-world application in preventive maintenance
 
+### 🛂 [Visa Certification Prediction](projects/easy-visa-prediction) 
+EasyVisa Project Classification modeling project using historical visa application data to support certification decisions:
+- Benchmarked Gradient Boosting, AdaBoost, and XGBoost with original, SMOTE-oversampled, and undersampled datasets
+- GBM with original data selected for deployment based on highest F1 Score (0.821) and balanced recall–precision performance
+- Key predictors included education level, job experience, prevailing wage, wage unit, continent of origin, and U.S. employment region
+- GBM minimized false positives (18.3%) while maintaining strong recall (88.7%)
+- Business recommendation: prioritize applicants with graduate education, prior experience, and yearly wages > $70K
+- Highlights importance of F1-optimized models in regulatory contexts where fairness and efficiency must coexist
+
 ### 🏦 [Personal Loan Conversion Prediction – AllLife Bank](personal-loan-prediction/)
 Decision tree classification model to support targeted marketing:
 - Compares pre-pruning and post-pruning strategies  
