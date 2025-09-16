@@ -8,13 +8,13 @@ This space showcases projects that blend customer-centric design, advanced analy
 
 ## 🧠 Key Projects
 
-### 🔧 [Wind Turbine Failure Detection](projects/wind-turbine-failure/)
+### 🔧 [Wind Turbine Failure Detection](wind-turbine-failure/)
 Neural network built to detect early signs of mechanical failure in wind turbines. Features:
 - Imbalanced classification strategies (threshold tuning & class weighting)
 - High-recall model optimization and cost analysis
 - Real-world application in preventive maintenance
 
-### 🛂 [Visa Certification Prediction](projects/easy-visa-prediction) 
+### 🛂 [Visa Certification Prediction](easy-visa-prediction) 
 EasyVisa Project Classification modeling project using historical visa application data to support certification decisions:
 - Benchmarked Gradient Boosting, AdaBoost, and XGBoost with original, SMOTE-oversampled, and undersampled datasets
 - GBM with original data selected for deployment based on highest F1 Score (0.821) and balanced recall–precision performance
