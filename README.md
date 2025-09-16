@@ -44,8 +44,8 @@ Exploratory data analysis project using real customer order data from a New York
 
 ## 🛠 Tools & Techniques
 
-- **Languages:** Python, SQL  
-- **Libraries:** Scikit-Learn, TensorFlow, Pandas, Matplotlib  
+- **Languages:** C, Java, Python, SQL  
+- **Libraries:** NumPy, Pandas. Matplotlib, Seaborn, Scikit-Learn, TensorFlow, OpenCV, Llama-ccp, Langchain  
 - **Skills:** Feature engineering, recall optimization, cost modeling  
 - **Visualization:** Tableau, Power BI  
 - **Project Ops:** Structured logging, dashboarding, model lifecycle tracking
