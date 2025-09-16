@@ -54,5 +54,13 @@ Avoid profiles with:
 Use F1-optimized models to balance recall and precision in high-stakes regulatory contexts. Consider ensemble methods with interpretable outputs for stakeholder alignment.
 
 ## 📂 Folder Structure
-easyvisa-certification-prediction/ ├── data/ ├── notebooks/ ├── src/ ├── visuals/ ├── html/ ├── README.md └── gbm_final_model.pkl
+```plaintext
+easyvisa-certification-prediction/
+├── data/
+├── notebooks/
+├── src/
+├── visuals/
+├── html/
+├── README.md
+└── gbm_final_model.pkl
 
