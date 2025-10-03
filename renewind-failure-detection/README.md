@@ -1,4 +1,4 @@
-# ReneWind Turbine Failure Detection
+# 🔧 ReneWind Turbine Failure Detection
 
 This project focuses on building predictive models to detect **wind turbine failures** before they occur, enabling **preventive maintenance** and reducing costly downtime. Using sensor-derived data, multiple deep learning architectures were tested and refined, with the final model achieving **~92% recall** on validation data—ensuring that the vast majority of failures are detected in advance.  
 
