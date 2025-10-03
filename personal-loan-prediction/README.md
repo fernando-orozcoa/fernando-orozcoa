@@ -65,7 +65,4 @@ personal-loan-prediction/
 ├── data/
 ├── html/
 ├── notebooks/
-├── src/
-├── visuals/
-├── README.md
-└── decision_tree_final_model.pkl
+└── README.md
