@@ -8,11 +8,15 @@ This space showcases projects that blend customer-centric design, advanced analy
 
 ## 🧠 Key Projects
 
-### 🔧 [Wind Turbine Failure Detection](wind-turbine-failure/)
-Neural network built to detect early signs of mechanical failure in wind turbines. Features:
-- Imbalanced classification strategies (threshold tuning & class weighting)
-- High-recall model optimization and cost analysis
-- Real-world application in preventive maintenance
+### 🔧 [ReneWind Turbine Failure Detection](renewind-failure-detection)  
+Classification modeling project using sensor‑derived turbine data to support predictive maintenance:
+- Benchmarked 12 deep learning architectures with increasing complexity (SGD vs. Adam, dropout, BatchNormalization, He initialization, class weighting, EarlyStopping, and batch size tuning)  
+- **Model 11** selected for deployment: deep regularized network with Adam optimizer, He initialization, class weighting ×2, and EarlyStopping (epoch ~17)  
+- Achieved **~92% recall**, ensuring the vast majority of failures are detected before breakdowns  
+- **Model 9** highlighted as an alternative when inspection costs are high, capturing ~86% of failures while reducing false positives  
+- Key insight: **class weighting and EarlyStopping** were the most impactful strategies for balancing recall and generalization  
+- Business recommendation: deploy Model 11 to minimize costly replacements and downtime; use Model 9 in cost‑sensitive inspection scenarios  
+- Demonstrates the value of recall‑optimized models in operational contexts where **false negatives carry the highest financial risk**
 
 ### 🛂 [Visa Certification Prediction](easy-visa-prediction) 
 EasyVisa Project Classification modeling project using historical visa application data to support certification decisions:
