@@ -91,3 +91,10 @@ A series of **12 models** were developed, each iteration introducing refinements
 ---
 
 ## 📂 Folder Structure
+```plaintext
+renewind-failure-detection/
+├── data/
+├── notebooks/
+├── html/
+└── README.md
+```
