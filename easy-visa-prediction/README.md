@@ -55,12 +55,9 @@ Use F1-optimized models to balance recall and precision in high-stakes regulator
 
 ## 📂 Folder Structure
 ```plaintext
-easyvisa-certification-prediction/
+easy-visa-prediction/
 ├── data/
 ├── notebooks/
-├── src/
-├── visuals/
 ├── html/
-├── README.md
-└── gbm_final_model.pkl
-
+└── README.md
+```
