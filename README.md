@@ -7,6 +7,15 @@ This space showcases projects that blend customer-centric design, advanced analy
 ---
 
 ## 🧠 Key Projects
+### 🩺 [GenAI Medical Assistant – Prompt Engineering & RAG](genai-medical-assistant)  
+Applied generative AI techniques to build a medical assistant that delivers context‑aware, clinically relevant responses using the Merck Manual as a trusted knowledge base:
+- Compared **vanilla LLMs**, **prompt engineering**, and **retrieval‑augmented generation (RAG)** for diagnostic, drug, and treatment queries  
+- Implemented **RAG pipeline**: PDF ingestion → text cleaning (removal of front matter & repetitive footers) → chunking with `RecursiveCharacterTextSplitter.from_tiktoken_encoder` → embeddings with **gte‑large** (Hugging Face) → storage in **Chroma** vector database → retrieval + generation with **llama‑2‑13b‑chat.Q5_K_M.gguf** via **llama.cpp**  
+- **RAG consistently outperformed** other methods, producing grounded, precise, and context‑specific answers for complex cases (e.g., sepsis protocols, appendicitis treatment)  
+- Prompt engineering improved reasoning clarity but lacked domain grounding; vanilla LLMs were fluent but risked hallucination  
+- Key insight: **context‑aware retrieval is essential** for high‑precision medical tasks, while prompt engineering is better suited for educational or non‑critical use cases  
+- Business recommendation: adopt **RAG‑based assistants** for clinicians to ensure reliable, evidence‑based decision support; use prompt‑engineered LLMs for general education and patient‑facing explanations  
+- Demonstrates the feasibility of **scalable, compliant AI solutions in healthcare** that reduce information overload and improve decision‑making efficiency
 
 ### 🔧 [ReneWind Turbine Failure Detection](renewind-failure-detection)  
 Classification modeling project using sensor‑derived turbine data to support predictive maintenance:
