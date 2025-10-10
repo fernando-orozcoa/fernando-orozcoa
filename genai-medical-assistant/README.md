@@ -53,8 +53,12 @@ Three methodologies were compared:
 **Pipeline Overview**:  
 1. **Document ingestion** → PDF parsing & cleaning  
 2. **Chunking & embedding** → Vector database storage  
+   - Embeddings generated using **`gte-large`** (downloaded from Hugging Face)  
+   - Stored and indexed in **Chroma** as the vector database  
 3. **Retriever** → Fetches top-k relevant chunks  
-4. **LLM generation** → Combines user query + retrieved context  
+4. **LLM generation** →  
+   - Model: **`llama-2-13b-chat.Q5_K_M.gguf`** (downloaded from Hugging Face)  
+   - Inference via **llama.cpp** for efficient local execution  
 5. **Evaluation** → Groundedness & relevance scoring  
 
 ---
