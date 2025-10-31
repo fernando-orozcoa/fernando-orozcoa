@@ -99,5 +99,5 @@ Four models were developed and evaluated:
 safeguard-helmet-detection/
 ├── data/
 ├── notebooks/
-├── models/
+├── html/
 └── README.md
