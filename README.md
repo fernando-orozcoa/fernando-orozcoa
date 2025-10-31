@@ -7,6 +7,14 @@ This space showcases projects that blend customer-centric design, advanced analy
 ---
 
 ## 🧠 Key Projects
+### 🛡️ [SafeGuard Helmet Detection – Computer Vision for Safety Compliance](helmet-detection-system)  
+Image classification project using deep learning to detect helmet usage in industrial environments:
+- Developed and compared four models: custom CNN, VGG16 base, VGG16 + FFNN, and VGG16 + FFNN + Data Augmentation  
+- Final model (VGG16 + FFNN + Augmentation) achieved **100% accuracy, precision, recall, and F1-score** on validation and test sets  
+- Applied **data augmentation** (rotation, shift, zoom, flip) to improve generalization on limited data  
+- Prioritized **precision for the “No Helmet” class** to minimize false alerts and ensure reliable safety enforcement  
+- Business recommendation: deploy final model for scalable, automated helmet compliance monitoring; expand dataset to improve robustness in real-world conditions  
+- Demonstrates the effectiveness of **transfer learning and augmentation** in building reliable computer vision systems for workplace safety
 ### 🩺 [GenAI Medical Assistant – Prompt Engineering & RAG](genai-medical-assistant)  
 Applied generative AI techniques to build a medical assistant that delivers context‑aware, clinically relevant responses using the Merck Manual as a trusted knowledge base:
 - Compared **vanilla LLMs**, **prompt engineering**, and **retrieval‑augmented generation (RAG)** for diagnostic, drug, and treatment queries  
