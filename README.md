@@ -7,6 +7,25 @@ This space showcases projects that blend customer-centric design, advanced analy
 ---
 
 ## 🧠 Key Projects
+### 🛒 [SuperKart Sales Forecasting – Scalable Revenue Prediction for Retail Strategy](superkart-sales-forecasting)
+Regression modeling and deployment project to forecast quarterly sales revenue across SuperKart’s national retail network:
+- **Business objective**: Enable data‑driven inventory and regional strategy decisions by predicting outlet‑level revenue  
+- Conducted **univariate and bivariate analysis** across product and store features:
+  - Found strong positive correlations between **Product_Weight** (r = 0.74) and **Product_MRP** (r = 0.79) with sales  
+  - Identified skewed distributions in **Product_Allocated_Area** and **Store_Sales_Total**, recommending log/robust transformations  
+  - Categorical features showed imbalance: **OUT004**, **Medium stores**, and **Tier 2 cities** dominate revenue  
+- Selected **R‑squared** as the primary evaluation metric to compare model families, emphasizing explanatory power over scale‑dependent error  
+- Applied **StandardScaler** to normalize numeric features and ensure consistent model behavior across algorithms  
+- Built and validated a **regression API** with both single and batch endpoints:
+  - Backend deployed with **FastAPI + Gunicorn**, containerized via Docker  
+  - Frontend built with **Streamlit**, enabling real‑time predictions and CSV batch uploads  
+  - Batch endpoint tested with 20 samples, returning correct predictions and HTTP 200 responses  
+- Business recommendations:
+  - Integrate API into inventory and sales systems for real‑time forecasting  
+  - Prioritize high‑performing categories (Fruits & Vegetables, Snack Foods) and replicate successful store formats  
+  - Expand in Tier 2 cities and monitor bias from dominant outlets  
+  - Use predictions to guide dynamic pricing, personalized promotions, and inventory optimization  
+- Demonstrates the value of **scalable, interpretable regression systems** for retail decision support and operational efficiency
 ### 🛡️ [SafeGuard Helmet Detection – Computer Vision for Safety Compliance](helmet-detection-system)  
 Image classification project using deep learning to detect helmet usage in industrial environments:
 - Developed and compared four models: custom CNN, VGG16 base, VGG16 + FFNN, and VGG16 + FFNN + Data Augmentation  
