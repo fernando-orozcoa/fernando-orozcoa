@@ -83,9 +83,17 @@ The objective is to **predict quarterly outlet-level sales revenue** using histo
 - **Requirements**: `requirements.txt` ensures dependency consistency  
 - **Hosting**: Hugging Face Space for API deployment
 
+**Backend URLs**:  
+- Home: [https://ferruss-superkart-backend.hf.space](https://ferruss-superkart-backend.hf.space)  
+- Prediction: [https://ferruss-superkart-backend.hf.space/v1/predict](https://ferruss-superkart-backend.hf.space/v1/predict)  
+- Batch Prediction: [https://ferruss-superkart-backend.hf.space/v1/batch_predict](https://ferruss-superkart-backend.hf.space/v1/batch_predict)  
+
 ### 🖥️ Frontend (Streamlit)
 - **Single Prediction**: Form input → POST request → predicted revenue displayed  
 - **Batch Prediction**: CSV upload → backend processing → collective results returned  
+
+**Frontend URL**:  
+- [https://ferruss-superkart-frontend.hf.space](https://ferruss-superkart-frontend.hf.space)
 
 ---
 
