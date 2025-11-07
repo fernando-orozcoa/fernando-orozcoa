@@ -17,7 +17,11 @@ Machine Learning deployment project to forecast quarterly sales revenue across S
 - Benchmarked multiple regressors; **Tuned XGBoost** selected for deployment with **R² = 0.940** and **RMSE ≈ 257**, offering the best balance between accuracy and generalization  
 - Final **XGBoost model saved as a `.joblib` file** for reproducibility and integration into production workflows  
 - Built and validated a **FastAPI backend** with three endpoints (welcome, single prediction, batch prediction), containerized with Docker, and hosted on **Hugging Face Spaces**  
+  - **Backend Home URL**: [https://ferruss-superkart-backend.hf.space](https://ferruss-superkart-backend.hf.space)  
+  - **Backend Prediction URL**: [https://ferruss-superkart-backend.hf.space/v1/predict](https://ferruss-superkart-backend.hf.space/v1/predict)  
+  - **Backend Batch Prediction URL**: [https://ferruss-superkart-backend.hf.space/v1/batch_predict](https://ferruss-superkart-backend.hf.space/v1/batch_predict)  
 - Developed a **Streamlit frontend** for interactive single predictions and batch CSV uploads, ensuring usability for both technical and business stakeholders  
+  - **Frontend URL**: [https://ferruss-superkart-frontend.hf.space](https://ferruss-superkart-frontend.hf.space)  
 - Recommended **WAPE** as the operational metric for production deployment due to its interpretability and scale-awareness  
 - Business recommendations:
   - Expand high-performing categories (Fruits & Vegetables, Snack Foods, Dairy) and reassess underperforming ones (Seafood, Breakfast)  
@@ -25,6 +29,7 @@ Machine Learning deployment project to forecast quarterly sales revenue across S
   - Prioritize Tier 2 cities for growth while strengthening presence in Tier 1 and Tier 3  
   - Apply targeted discounts or bundling strategies to stimulate demand in underperforming categories  
 - Demonstrates the value of **end-to-end ML deployment** (EDA → model selection → joblib export → backend API → frontend UI → Hugging Face hosting) for scalable, interpretable retail forecasting solutions
+
 
 ### 🛡️ [SafeGuard Helmet Detection – Computer Vision for Safety Compliance](helmet-detection-system)  
 Image classification project using deep learning to detect helmet usage in industrial environments:
