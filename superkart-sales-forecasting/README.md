@@ -25,19 +25,39 @@ The objective is to **predict quarterly outlet-level sales revenue** using histo
 
 ## 🔎 Exploratory Analysis
 
-### Univariate Insights
-- Most numeric features are well-behaved (`Product_Weight`, `Product_MRP`)  
-- Skewness observed in `Product_Allocated_Area` and `Product_Store_Sales_Total`  
-- Categorical imbalance: dominance of `OUT004`, `Medium` stores, `Tier 2` cities, and `Supermarket Type2`
+### 📈 Univariate Analysis (Numerical Features)
+- **Product_Weight**: Approximately normal, centered around 12–13 kg. Mild outliers >20 kg. Well-behaved and suitable for modeling.  
+- **Product_Allocated_Area**: Strong right skew, most products <0.1 area. Several extreme values in upper tail. Normalization recommended.  
+- **Product_MRP**: Approximately normal with slight right skew. Stable distribution; scaling beneficial.  
+- **Product_Store_Sales_Total (Target)**: Right-skewed, mean = 3,464, range = 33–8,000. Several extreme values >6,000. Log transformation may stabilize variance.  
 
-### Bivariate Insights
-- Strong positive correlation:  
-  - `Product_Weight` vs Sales (r = 0.74)  
-  - `Product_MRP` vs Sales (r = 0.79)  
-- No correlation between `Product_Allocated_Area` and Sales  
-- High-performing categories: Fruits & Vegetables, Snack Foods, Dairy  
-- Underperforming categories: Seafood, Breakfast  
-- Sales concentrated in stores established in 2009
+### 📊 Univariate Analysis (Categorical Features)
+- **Product_Sugar_Content**: 3 categories; Low Sugar dominates (~55.7%).  
+- **Product_Type**: 16 groups; Fruits & Vegetables (~14.3%) most frequent. Long-tail distribution; rare categories may need grouping.  
+- **Store_Id**: 4 outlets; OUT004 dominates (~53.3%).  
+- **Store_Size**: 3 categories; Medium dominates (~68.7%).  
+- **Store_Location_City_Type**: 3 categories; Tier 2 dominates (~71.4%).  
+- **Store_Type**: 4 categories; Supermarket Type2 dominates (~53.3%).  
+- **Store_Establishment_Year**: 4 years; 2009 dominates (~53.3%). Better treated as categorical or transformed into store age.  
+
+---
+
+### 🔗 Bivariate Analysis
+
+#### Scatterplots & Correlations
+- **Product_Weight vs Sales**: r = 0.74 (strong positive). Heavier products linked to higher sales. Dense clustering at 10–15 kg and 2,500–4,500 sales.  
+- **Product_MRP vs Sales**: r = 0.79 (strong positive). Higher retail price → higher sales.  
+- **Product_Allocated_Area vs Sales**: r = 0.00 (no correlation).  
+- **Product_Weight vs Product_Allocated_Area**: r = 0.53 (moderate positive). Heavier products allocated more shelf space.  
+
+#### Sales by Categories
+- **Sugar Content**: Low Sugar products dominate sales; Regular second; No Sugar lowest.  
+- **Product Type**: Fruits & Vegetables lead, followed by Snack Foods and Dairy. Breakfast, Seafood, Starchy Foods underperform.  
+- **Store**: OUT004 records highest sales, nearly double others. OUT002 lowest.  
+- **Store Size**: Medium stores generate highest sales; High stores underperform despite capacity; Small stores lowest.  
+- **Store Location City Type**: Tier 2 cities dominate; Tier 1 moderate; Tier 3 lowest.  
+- **Store Type**: Supermarket Type2 highest; Departmental Stores second; Food Mart lowest.  
+- **Store Establishment Year**: 2009 stores dominate (~16M sales); 1987 & 1999 ~6M; 1998 lowest (~2M).  
 
 ---
 
