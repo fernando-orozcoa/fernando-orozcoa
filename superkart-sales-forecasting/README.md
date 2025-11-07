@@ -112,6 +112,10 @@ superkart-sales-forecasting/
 │   ├── requirements.txt
 │   └── Dockerfile
 │
+├── data/
+│   ├── SuperKart.csv
+│   └── batch_data_superkart.csv
+│ 
 ├── notebooks/
 │   └── Full_Code_SuperKart_Model_Deployment_Notebook.ipynb
 │
