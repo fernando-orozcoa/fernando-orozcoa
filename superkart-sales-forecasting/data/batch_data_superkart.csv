@@ -1,0 +1,1316 @@
+Product_Weight,Product_Allocated_Area,Product_MRP,Store_Age,Product_Sugar_Content,Store_Id,Store_Size,Store_Location_City_Type,Store_Type,Product_Category,Product_Id
+11.03,0.185,183.66,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4956
+10.76,0.035,138.59,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6988
+13.06,0.112,87.14,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7128
+13.27,0.069,194.1,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5014
+10.92,0.295,157.14,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6279
+12.31,0.067,172.49,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4707
+15.71,0.063,148.95,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5978
+11.81,0.07,128.82,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4228
+12.69,0.076,155.65,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4309
+11.33,0.03,145.97,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD618
+15.8,0.09,183.34,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD694
+9.52,0.076,128.96,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6633
+13.39,0.04,196.18,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5375
+13.26,0.01,180.65,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC8597
+17.24,0.069,224.3,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR7097
+9.19,0.133,119.26,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC7363
+10.77,0.014,129.05,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1298
+11.62,0.055,156.79,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1057
+11.23,0.067,148.57,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1761
+12.53,0.153,138.85,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3243
+15.76,0.036,147.44,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6483
+13.08,0.079,168.87,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2592
+9.75,0.009,116.15,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6587
+13.55,0.029,147.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1719
+10.15,0.016,104.0,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC6521
+13.38,0.025,145.21,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7688
+16.45,0.074,119.11,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC342
+10.01,0.055,125.72,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5230
+11.56,0.055,153.11,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4768
+9.86,0.01,152.54,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5808
+11.9,0.136,184.5,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7020
+15.1,0.142,211.63,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC4471
+9.51,0.079,94.15,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC1898
+14.73,0.027,148.35,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2185
+11.44,0.038,99.71,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD7499
+10.9,0.061,150.45,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD770
+9.45,0.033,118.24,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC4019
+14.24,0.063,159.5,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4553
+11.9,0.067,118.8,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3502
+8.32,0.084,116.5,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4778
+16.4,0.038,166.56,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR8071
+13.02,0.102,168.86,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7391
+9.65,0.027,94.67,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6659
+10.62,0.054,131.01,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4071
+13.45,0.032,126.96,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1500
+13.09,0.011,140.59,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6885
+12.78,0.035,89.61,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5577
+12.6,0.031,203.64,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2545
+13.67,0.028,141.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1334
+13.19,0.048,145.62,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8274
+9.88,0.032,142.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1357
+14.33,0.076,180.41,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1163
+13.09,0.062,132.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8485
+15.26,0.031,170.72,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4336
+14.8,0.154,161.76,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC1971
+13.53,0.057,128.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7202
+12.31,0.125,190.94,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8194
+11.03,0.07,84.04,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2260
+15.71,0.064,162.65,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD905
+16.86,0.061,217.5,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2596
+17.84,0.037,148.23,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR4889
+14.7,0.03,175.92,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6717
+14.02,0.02,176.65,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6625
+9.66,0.062,178.03,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4161
+14.14,0.02,147.81,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4463
+13.75,0.023,161.12,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3677
+9.79,0.043,99.46,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC2129
+15.87,0.093,185.03,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1255
+14.71,0.034,140.78,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4578
+13.22,0.292,195.82,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC1160
+15.93,0.102,202.92,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2792
+11.42,0.031,116.53,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7960
+12.94,0.075,109.45,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD815
+11.42,0.036,131.28,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6490
+11.5,0.168,128.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6271
+14.95,0.041,185.28,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2225
+8.8,0.024,127.36,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD2652
+12.26,0.159,124.22,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4006
+14.9,0.083,152.82,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR3521
+16.13,0.069,157.36,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7496
+11.32,0.072,123.07,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2431
+14.68,0.063,115.49,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7198
+15.04,0.024,196.19,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5099
+14.67,0.072,150.17,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD999
+11.6,0.028,190.11,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD832
+9.47,0.065,177.81,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6290
+10.86,0.058,161.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1729
+11.47,0.052,194.64,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6732
+12.47,0.035,147.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR3434
+10.2,0.055,117.14,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD4531
+12.11,0.091,170.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD806
+9.64,0.03,141.23,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC171
+11.83,0.12,124.6,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7009
+12.25,0.01,198.7,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC4711
+16.38,0.029,160.63,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6477
+15.62,0.102,200.97,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1029
+11.49,0.081,160.35,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2028
+8.4,0.036,90.7,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD7896
+13.0,0.027,161.88,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2866
+9.14,0.082,131.77,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6238
+12.32,0.079,128.42,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1783
+12.81,0.031,168.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1526
+14.73,0.023,113.04,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6297
+12.16,0.21,173.09,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4385
+12.21,0.108,173.81,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1369
+13.15,0.056,134.82,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3940
+6.85,0.098,112.86,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5128
+14.26,0.115,169.85,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR1976
+7.63,0.077,128.77,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR3820
+9.6,0.06,124.9,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC8535
+13.76,0.064,189.07,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7377
+11.46,0.033,111.72,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5259
+13.06,0.074,160.34,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4203
+17.37,0.033,173.52,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR4668
+7.11,0.065,96.54,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1948
+11.7,0.185,124.5,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2708
+13.15,0.053,116.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2045
+14.79,0.036,146.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2927
+10.69,0.176,116.37,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2865
+14.73,0.021,172.75,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD3423
+12.9,0.036,97.93,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8209
+9.98,0.057,103.51,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD719
+7.16,0.025,118.89,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR7861
+18.98,0.021,203.09,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD3681
+15.55,0.025,163.35,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2711
+17.16,0.036,167.49,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4594
+11.99,0.075,161.14,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5850
+10.88,0.058,105.11,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD6683
+15.57,0.128,161.96,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1545
+11.45,0.034,133.9,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2299
+14.74,0.083,167.42,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR4400
+18.01,0.012,229.54,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC2868
+14.26,0.026,181.37,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1670
+10.31,0.036,118.2,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7278
+11.29,0.096,144.37,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7575
+12.32,0.031,117.31,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3809
+8.95,0.016,108.2,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD1917
+13.36,0.12,106.07,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8291
+15.27,0.069,195.27,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5174
+10.92,0.035,178.53,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1459
+14.93,0.165,185.32,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2695
+14.13,0.15,210.3,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8458
+9.54,0.077,89.16,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD8241
+13.17,0.076,151.4,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7534
+12.84,0.052,177.88,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5626
+12.05,0.046,124.5,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6145
+17.42,0.027,143.85,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD450
+9.61,0.074,129.04,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1683
+10.3,0.082,97.08,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5663
+14.34,0.03,147.15,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8169
+12.59,0.058,126.91,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5312
+13.93,0.082,182.74,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2140
+12.73,0.099,125.94,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7080
+13.33,0.053,103.88,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4188
+14.58,0.116,121.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7550
+14.06,0.142,144.51,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC584
+16.5,0.054,152.48,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5180
+17.45,0.036,156.65,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1519
+12.26,0.085,138.07,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3622
+14.28,0.055,200.43,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4693
+13.58,0.051,90.16,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6308
+15.89,0.171,168.67,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5831
+10.97,0.023,146.95,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4903
+11.48,0.121,135.07,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6345
+14.09,0.036,207.15,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC3150
+11.76,0.068,164.98,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR3676
+12.88,0.123,158.39,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2880
+15.2,0.013,164.09,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5350
+9.65,0.066,82.08,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4393
+11.46,0.021,132.35,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8461
+12.62,0.107,194.64,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC45
+13.84,0.039,174.45,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2051
+12.94,0.08,167.52,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD336
+16.33,0.052,196.68,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1259
+12.99,0.043,125.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6597
+11.59,0.015,136.89,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5506
+14.82,0.072,178.16,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5063
+8.25,0.01,151.69,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6998
+14.04,0.058,120.97,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5405
+14.47,0.155,140.23,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2052
+7.27,0.011,104.5,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2781
+11.45,0.014,119.93,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2006
+14.14,0.064,119.88,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5183
+14.25,0.009,194.45,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7628
+13.68,0.055,172.37,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8354
+11.64,0.029,182.5,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD198
+10.29,0.113,166.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1350
+13.14,0.034,97.35,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4399
+12.58,0.093,159.98,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3639
+12.97,0.091,165.31,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC36
+12.8,0.022,145.28,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4828
+15.81,0.088,130.95,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4538
+13.57,0.044,121.38,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5890
+10.93,0.022,202.82,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3657
+14.93,0.085,174.03,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6421
+12.14,0.079,144.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1013
+7.91,0.119,122.78,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC7184
+14.32,0.03,194.4,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD8658
+14.58,0.04,152.5,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5909
+12.17,0.045,156.69,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4324
+14.19,0.155,118.28,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1243
+12.52,0.011,126.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD259
+11.96,0.088,156.95,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3557
+16.59,0.021,221.88,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1283
+14.48,0.128,171.58,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4661
+14.93,0.083,189.03,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR4824
+13.05,0.015,145.06,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1447
+12.75,0.086,139.62,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7923
+12.02,0.032,132.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4993
+12.64,0.099,96.05,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6127
+12.14,0.09,95.05,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD7866
+10.3,0.089,118.94,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3107
+12.83,0.017,117.53,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8446
+10.52,0.044,87.07,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2578
+10.87,0.007,143.98,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8757
+16.42,0.052,159.07,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1189
+14.79,0.113,181.26,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC1610
+10.57,0.053,119.58,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3311
+10.51,0.048,76.35,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3022
+15.51,0.073,170.86,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR1356
+11.43,0.138,143.95,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2121
+11.47,0.089,102.13,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD561
+12.32,0.024,128.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD179
+11.38,0.026,145.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD643
+12.53,0.128,134.26,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4441
+12.27,0.061,134.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3437
+12.13,0.067,171.71,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5258
+19.55,0.047,176.27,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1348
+13.54,0.103,99.24,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6553
+8.18,0.073,106.54,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2159
+14.41,0.035,131.41,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4371
+11.88,0.039,91.12,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD699
+14.79,0.065,176.73,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR515
+11.35,0.027,119.64,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD46
+13.91,0.103,151.64,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8083
+14.25,0.031,182.95,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1000
+12.25,0.025,153.72,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7326
+11.05,0.076,164.46,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3448
+13.47,0.151,120.15,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4397
+10.4,0.026,131.82,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4817
+15.43,0.094,160.66,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5879
+14.91,0.037,182.95,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1554
+12.89,0.047,151.99,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8235
+11.01,0.007,150.01,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5752
+13.02,0.12,158.7,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5816
+9.02,0.108,106.93,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1332
+18.94,0.128,194.74,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR977
+12.15,0.007,169.98,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1090
+12.49,0.292,131.49,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7944
+16.26,0.025,188.82,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5734
+8.93,0.031,126.48,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD5438
+10.82,0.064,148.05,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2683
+12.13,0.034,100.6,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR6690
+14.91,0.125,139.87,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4089
+15.39,0.09,154.27,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4404
+12.04,0.013,101.35,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6128
+10.48,0.073,92.63,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5333
+11.73,0.144,164.52,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6651
+11.24,0.071,116.91,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7971
+10.21,0.096,121.78,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3588
+12.97,0.036,184.16,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2742
+13.37,0.144,173.1,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7288
+9.62,0.103,134.38,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4457
+10.41,0.021,151.97,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8000
+10.34,0.12,126.22,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5129
+14.72,0.033,183.18,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6518
+13.1,0.03,157.08,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3208
+14.23,0.057,156.52,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR2334
+13.23,0.034,174.74,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4617
+10.37,0.024,126.19,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4469
+16.07,0.067,176.39,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2191
+11.5,0.128,132.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6436
+13.62,0.03,172.98,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD425
+13.7,0.09,181.34,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC1293
+12.68,0.064,183.73,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8652
+12.98,0.035,130.02,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4860
+11.38,0.086,168.02,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1779
+12.79,0.079,156.49,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3283
+11.25,0.041,153.72,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5446
+11.82,0.095,175.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8268
+11.31,0.152,146.11,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8637
+9.65,0.117,106.35,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5403
+15.29,0.082,189.49,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6287
+13.37,0.068,230.34,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC423
+14.74,0.147,99.48,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6964
+14.28,0.121,159.61,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4059
+11.97,0.052,150.67,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1216
+19.13,0.018,166.57,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2817
+10.03,0.166,139.29,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3049
+14.34,0.064,201.82,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3229
+9.45,0.047,95.95,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1961
+11.64,0.078,190.67,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD874
+15.34,0.007,193.67,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4317
+11.4,0.063,141.03,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5634
+11.45,0.052,154.54,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1795
+14.25,0.055,190.69,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7750
+10.9,0.013,153.32,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8740
+14.43,0.038,150.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3477
+13.26,0.037,147.89,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3649
+10.13,0.015,93.1,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1353
+15.97,0.057,170.65,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6514
+14.52,0.031,174.8,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6698
+12.52,0.026,155.11,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6362
+8.96,0.01,137.06,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC2504
+13.98,0.039,178.92,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4688
+11.92,0.035,166.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5757
+16.62,0.017,179.67,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7613
+12.02,0.163,123.66,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD759
+16.73,0.066,166.21,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD8366
+10.33,0.03,177.97,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1378
+10.84,0.103,162.99,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7343
+10.48,0.023,108.81,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC640
+14.23,0.063,190.67,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD662
+11.08,0.047,195.09,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6170
+13.03,0.061,150.09,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4003
+13.34,0.027,165.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2850
+11.86,0.025,113.84,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3196
+15.73,0.031,149.47,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3069
+11.63,0.045,139.5,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2249
+15.11,0.014,176.72,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7723
+12.49,0.006,142.64,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4548
+8.9,0.02,108.29,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD7263
+13.62,0.108,179.95,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5825
+10.34,0.142,119.07,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7399
+13.89,0.047,153.26,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1671
+11.94,0.025,156.56,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR349
+10.07,0.049,119.27,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4927
+11.43,0.079,133.54,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7934
+12.3,0.018,135.69,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7251
+14.18,0.047,119.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7533
+15.75,0.031,131.43,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5093
+14.44,0.031,135.2,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7183
+11.43,0.071,131.75,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR1045
+13.47,0.123,169.15,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1768
+15.18,0.079,190.65,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7274
+10.24,0.098,108.62,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR3847
+11.61,0.033,153.19,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6009
+16.8,0.017,160.69,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2515
+12.66,0.065,98.86,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR2172
+12.95,0.023,138.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7428
+15.27,0.082,144.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5292
+14.57,0.014,103.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7543
+13.24,0.077,160.15,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5501
+9.9,0.015,126.82,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4723
+11.85,0.137,172.17,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6957
+15.42,0.021,187.03,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3738
+8.16,0.093,64.66,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC1574
+15.62,0.056,164.29,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD976
+17.87,0.124,166.45,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD899
+15.8,0.151,154.49,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7413
+11.0,0.078,167.49,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR6318
+14.51,0.041,139.17,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4167
+12.66,0.115,132.52,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5556
+12.84,0.109,175.87,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1135
+11.65,0.017,181.67,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD219
+11.37,0.027,156.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4337
+15.31,0.063,144.37,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8645
+11.11,0.048,108.9,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1317
+13.59,0.007,145.95,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5740
+11.07,0.102,96.39,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD20
+12.9,0.061,156.48,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC361
+13.74,0.061,172.15,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6260
+9.77,0.055,139.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD604
+12.45,0.142,123.7,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3526
+15.27,0.125,136.16,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC383
+16.12,0.097,160.18,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1451
+12.68,0.017,102.94,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3191
+18.13,0.168,175.09,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC3594
+15.6,0.178,194.87,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR6479
+14.13,0.118,223.61,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD932
+10.94,0.154,87.18,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD3279
+16.55,0.052,184.84,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6536
+12.04,0.086,162.26,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC544
+13.36,0.104,109.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8316
+12.95,0.112,118.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD473
+13.61,0.036,191.56,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR1262
+14.16,0.044,169.39,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2900
+9.93,0.041,120.85,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2100
+9.83,0.124,157.1,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7697
+12.75,0.073,132.21,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7947
+13.43,0.07,146.63,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5497
+14.55,0.107,188.52,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD585
+16.01,0.053,156.07,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2270
+7.96,0.016,85.82,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD8753
+12.31,0.049,84.27,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4573
+18.3,0.018,151.98,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2314
+10.85,0.111,102.41,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR8566
+14.33,0.097,131.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4644
+13.61,0.03,146.14,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3189
+11.31,0.049,168.4,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1231
+12.75,0.02,139.42,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5964
+13.96,0.026,168.46,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5934
+12.81,0.074,111.97,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC756
+14.61,0.111,152.39,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD8471
+13.02,0.033,174.11,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2521
+12.25,0.015,127.43,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8142
+19.61,0.168,236.83,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4152
+14.34,0.033,148.41,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4346
+14.06,0.013,134.94,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1916
+14.21,0.078,123.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3141
+11.39,0.066,153.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4898
+17.33,0.038,195.06,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC3500
+11.85,0.03,157.48,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6317
+14.84,0.068,179.73,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4517
+12.49,0.047,124.68,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8618
+13.82,0.047,168.29,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6325
+12.26,0.077,113.37,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1906
+10.77,0.065,104.63,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD1217
+13.05,0.014,169.41,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD8445
+13.04,0.015,122.08,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6256
+9.84,0.093,146.17,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8609
+12.63,0.024,110.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6412
+9.93,0.045,124.12,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2413
+8.95,0.059,116.97,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5883
+10.01,0.08,143.18,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC917
+14.62,0.119,199.73,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR835
+10.31,0.07,122.61,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1025
+18.83,0.094,188.87,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4413
+14.92,0.053,157.72,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD8383
+11.13,0.005,120.64,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3598
+13.44,0.035,156.55,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3593
+15.58,0.014,192.36,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2982
+14.5,0.067,194.8,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4672
+14.36,0.097,194.29,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR7517
+16.77,0.02,171.19,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2843
+9.81,0.05,156.67,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7661
+11.69,0.142,115.05,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2743
+12.26,0.14,138.27,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3181
+9.11,0.054,123.37,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC8481
+10.21,0.013,107.51,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD7669
+11.09,0.021,157.97,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4429
+16.52,0.121,111.49,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8404
+8.57,0.112,111.78,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3834
+12.8,0.016,194.7,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR6236
+15.5,0.069,168.03,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR506
+12.71,0.18,183.54,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4801
+7.44,0.076,78.77,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2058
+12.91,0.126,101.91,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2150
+13.38,0.018,138.23,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5681
+12.22,0.038,162.19,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7706
+12.12,0.113,151.61,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3054
+13.1,0.041,124.94,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2931
+13.89,0.044,151.6,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4704
+13.89,0.031,151.15,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8523
+8.69,0.053,127.49,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5345
+15.58,0.103,197.53,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2133
+14.99,0.025,194.94,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6766
+10.87,0.105,106.74,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6190
+13.45,0.049,179.74,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5428
+10.52,0.035,123.52,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4072
+11.3,0.042,154.99,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC795
+13.81,0.011,173.28,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD3886
+11.63,0.074,114.86,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6934
+11.41,0.034,131.14,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4174
+11.87,0.073,164.44,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4579
+12.24,0.029,194.68,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4987
+16.94,0.138,220.44,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8589
+11.52,0.015,141.18,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6782
+13.62,0.011,177.88,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7472
+13.61,0.024,158.23,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3072
+11.03,0.032,153.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR2547
+11.32,0.122,105.18,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR2056
+9.21,0.017,127.47,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3638
+18.0,0.118,179.6,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5389
+12.76,0.029,168.21,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8200
+13.21,0.071,156.85,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1165
+15.29,0.024,177.0,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4084
+14.92,0.171,152.48,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6042
+14.71,0.083,145.12,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2282
+13.53,0.023,196.65,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6262
+12.2,0.084,134.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5518
+12.65,0.078,98.99,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4247
+12.28,0.012,206.85,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4508
+12.56,0.017,161.04,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5390
+15.62,0.014,169.94,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3014
+10.52,0.081,152.17,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7935
+9.0,0.061,126.52,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD2351
+13.82,0.013,190.68,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5848
+13.05,0.168,137.46,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7193
+11.22,0.067,125.23,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6592
+15.05,0.055,149.42,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6275
+13.34,0.042,159.57,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2536
+14.12,0.083,171.03,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC4118
+11.27,0.027,87.56,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD7048
+16.1,0.034,193.49,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD3488
+13.73,0.137,120.67,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1523
+9.32,0.042,127.59,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7647
+7.33,0.031,83.2,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC4549
+13.7,0.122,130.94,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5442
+12.56,0.038,152.41,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6673
+13.08,0.019,97.93,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1520
+10.47,0.16,93.51,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR421
+14.11,0.078,131.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD308
+13.81,0.058,160.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7095
+12.61,0.052,142.08,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7467
+10.13,0.128,100.5,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4586
+13.83,0.018,166.21,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2415
+12.74,0.113,188.23,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC4505
+10.97,0.057,163.96,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD852
+8.72,0.026,102.83,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4978
+9.8,0.21,112.39,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5135
+14.14,0.041,170.73,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1974
+10.63,0.282,96.15,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD3590
+11.89,0.1,165.2,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6749
+14.5,0.033,160.2,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4965
+17.03,0.021,141.13,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3953
+12.01,0.099,119.46,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD937
+14.97,0.015,150.82,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3446
+11.75,0.031,61.57,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD6357
+11.27,0.021,151.5,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2151
+12.46,0.082,161.42,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1024
+11.49,0.11,135.98,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD95
+13.22,0.027,150.63,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3024
+10.9,0.083,121.33,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1918
+15.98,0.106,169.63,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7460
+13.61,0.059,112.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1891
+9.34,0.026,87.95,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD5238
+9.58,0.126,170.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6374
+10.46,0.022,139.16,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4349
+8.76,0.057,114.21,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1240
+13.94,0.022,191.19,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4641
+13.42,0.026,107.01,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3555
+10.77,0.07,107.46,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD7997
+11.22,0.025,143.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3898
+14.69,0.031,151.12,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7551
+10.18,0.021,112.92,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD5316
+13.27,0.028,131.42,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8162
+13.31,0.043,125.59,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4154
+11.61,0.173,159.99,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7322
+11.23,0.066,115.7,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7848
+12.37,0.039,124.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR1339
+12.54,0.077,135.28,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2406
+11.59,0.035,96.26,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD8028
+12.3,0.054,119.13,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8144
+11.6,0.129,118.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2564
+11.57,0.298,174.65,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC583
+16.3,0.071,154.75,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7287
+13.42,0.131,136.64,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6182
+9.46,0.049,140.28,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7469
+11.2,0.014,181.94,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8292
+13.58,0.077,182.08,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC1009
+14.24,0.133,135.42,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD120
+17.0,0.183,140.25,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1824
+16.64,0.12,194.21,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4636
+12.67,0.042,159.77,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4591
+15.79,0.069,144.12,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7733
+14.08,0.047,133.08,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3362
+14.04,0.127,134.97,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6549
+8.21,0.018,87.91,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3831
+17.96,0.039,170.04,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR287
+9.49,0.084,89.21,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD5965
+8.68,0.033,105.52,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD15
+15.19,0.023,199.94,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD967
+10.02,0.022,119.78,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1386
+11.07,0.058,147.38,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5720
+12.28,0.031,144.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1808
+10.39,0.012,101.82,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC4835
+12.55,0.186,156.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6205
+10.76,0.147,145.21,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5636
+13.29,0.124,174.98,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7951
+11.43,0.014,139.72,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3857
+9.36,0.039,107.02,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC3084
+9.96,0.064,156.4,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6726
+14.7,0.023,154.41,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3763
+10.71,0.033,116.75,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6953
+8.47,0.033,116.52,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR5915
+13.18,0.059,178.63,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6507
+7.85,0.164,115.66,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD427
+10.7,0.128,124.23,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4312
+13.18,0.056,164.71,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2469
+14.7,0.015,227.14,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR3660
+12.28,0.126,180.88,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5721
+12.28,0.093,100.94,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7926
+12.76,0.035,158.59,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6870
+12.92,0.118,183.5,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3535
+11.41,0.054,138.43,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2379
+17.18,0.092,202.99,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2414
+11.0,0.041,124.52,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7999
+13.58,0.004,182.35,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD448
+15.7,0.039,188.25,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8252
+11.95,0.047,164.23,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4326
+12.99,0.141,106.83,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1145
+15.75,0.076,144.77,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1077
+8.81,0.073,138.65,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR7580
+16.04,0.018,188.04,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD6627
+9.96,0.047,118.1,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD1474
+13.36,0.116,165.89,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5822
+12.86,0.174,160.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5232
+11.14,0.026,144.51,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3853
+9.94,0.126,114.27,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2990
+11.27,0.031,154.9,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR2331
+11.48,0.031,113.48,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4914
+13.61,0.177,167.03,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7812
+7.36,0.011,130.79,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD760
+9.66,0.042,127.15,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6831
+14.04,0.039,156.19,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1797
+9.44,0.035,122.54,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5246
+18.12,0.031,202.1,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD656
+9.54,0.04,106.83,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD2669
+12.38,0.112,164.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2728
+12.15,0.053,156.65,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7789
+14.68,0.037,176.06,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3721
+11.47,0.104,104.69,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC2171
+12.17,0.143,109.71,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5587
+12.04,0.078,144.72,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6427
+12.4,0.065,94.99,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD236
+12.73,0.028,166.77,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3234
+13.39,0.112,156.21,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2034
+12.28,0.039,126.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3249
+12.64,0.093,168.4,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3329
+10.9,0.076,115.99,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6303
+9.37,0.031,154.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7476
+17.02,0.076,224.36,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7273
+14.14,0.13,174.86,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC7416
+11.13,0.047,102.23,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1799
+10.72,0.083,119.55,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD697
+12.61,0.039,165.19,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6060
+17.44,0.034,193.87,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6915
+14.02,0.128,182.28,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR7473
+12.97,0.119,148.91,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1218
+12.49,0.171,142.49,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2245
+14.37,0.142,133.57,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5839
+12.17,0.022,132.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2763
+12.03,0.019,182.31,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC8488
+15.99,0.046,121.52,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7676
+9.6,0.041,164.6,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4199
+12.01,0.105,146.0,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR1920
+10.48,0.015,154.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2069
+10.15,0.014,59.96,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC4151
+17.13,0.147,191.14,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2264
+12.95,0.089,153.25,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD722
+15.7,0.015,163.16,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4276
+12.82,0.112,178.24,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4964
+8.41,0.038,125.52,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD8328
+10.71,0.023,136.46,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4125
+12.37,0.067,145.37,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5799
+12.51,0.132,155.12,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2105
+12.03,0.104,168.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7595
+12.02,0.026,186.55,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7753
+12.04,0.064,129.1,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7402
+9.16,0.023,112.78,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD4192
+15.15,0.019,145.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7432
+11.7,0.108,127.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR496
+9.53,0.015,90.11,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR6199
+11.43,0.174,162.44,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4022
+12.65,0.048,80.12,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD7014
+12.88,0.148,121.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5578
+10.23,0.142,140.42,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8129
+16.48,0.011,155.02,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC82
+10.33,0.047,133.86,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5718
+8.34,0.024,125.95,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD4662
+11.74,0.03,90.7,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD5665
+15.51,0.054,165.39,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR8514
+16.47,0.059,128.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3595
+11.15,0.096,76.14,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD340
+10.83,0.051,163.38,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5108
+12.57,0.036,172.0,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3398
+14.02,0.128,195.0,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4906
+14.44,0.027,184.72,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4739
+13.52,0.056,153.45,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4582
+14.26,0.112,147.57,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5142
+11.38,0.026,117.21,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5306
+12.67,0.054,158.53,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5360
+13.44,0.021,157.43,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD951
+16.66,0.04,203.88,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7309
+11.37,0.046,133.52,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR1800
+13.47,0.108,141.79,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7370
+11.6,0.034,113.54,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6971
+15.44,0.082,220.07,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2403
+13.46,0.122,179.09,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7737
+11.61,0.079,101.77,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6710
+10.44,0.022,97.29,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD5549
+12.7,0.037,201.66,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5766
+10.76,0.068,135.43,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5888
+11.56,0.048,188.35,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC2038
+14.4,0.021,174.68,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8106
+11.2,0.069,124.4,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5278
+11.83,0.123,130.51,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD154
+14.94,0.016,137.4,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1601
+11.42,0.028,152.78,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4701
+11.05,0.16,163.96,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5912
+14.85,0.07,169.28,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7911
+15.0,0.083,170.27,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2109
+10.24,0.078,133.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1035
+11.19,0.077,89.56,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC3561
+13.3,0.03,136.75,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5604
+9.65,0.092,140.61,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5
+13.34,0.093,124.78,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD320
+16.84,0.096,159.09,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD247
+12.99,0.061,130.04,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2244
+12.47,0.174,157.88,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4427
+14.01,0.184,177.48,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1675
+13.48,0.142,153.36,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7236
+14.88,0.099,146.81,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4235
+8.48,0.186,81.59,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD3939
+14.6,0.112,173.31,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7259
+16.5,0.11,160.79,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3136
+9.72,0.114,146.37,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8300
+13.31,0.041,130.39,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5042
+13.01,0.043,162.94,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4486
+11.15,0.03,180.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3723
+14.34,0.014,160.3,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3313
+11.47,0.096,145.6,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7715
+8.88,0.115,124.27,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2207
+12.66,0.013,134.81,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1624
+9.01,0.089,96.1,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD3416
+12.82,0.116,125.12,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6452
+11.65,0.154,157.84,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1364
+13.94,0.06,171.91,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC7570
+16.33,0.057,177.97,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6449
+14.43,0.099,160.51,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4128
+15.52,0.086,214.65,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR5460
+9.92,0.031,153.3,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3776
+15.47,0.07,196.0,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD30
+11.75,0.043,105.44,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7903
+11.67,0.103,134.73,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD721
+11.89,0.028,108.68,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7798
+14.37,0.113,181.98,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR6457
+12.52,0.095,174.45,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3250
+12.44,0.093,137.86,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD501
+14.94,0.018,196.74,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1927
+9.49,0.01,109.57,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3986
+15.17,0.019,154.26,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR2090
+10.03,0.016,126.66,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7005
+11.39,0.064,124.5,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1901
+13.08,0.136,157.84,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR312
+15.33,0.032,146.32,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1490
+13.44,0.011,153.62,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR7360
+13.79,0.025,116.44,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3931
+15.3,0.087,199.37,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8403
+9.92,0.104,120.78,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC6209
+13.64,0.021,163.72,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7134
+13.22,0.143,176.83,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD195
+8.93,0.023,118.25,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD3705
+12.13,0.047,135.78,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4699
+11.49,0.06,94.19,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5148
+12.89,0.055,145.21,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1166
+15.49,0.029,155.16,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR7021
+9.06,0.074,120.19,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD8593
+16.53,0.077,215.22,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8344
+14.8,0.089,198.91,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD366
+15.36,0.056,187.11,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC89
+12.61,0.045,154.08,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD839
+12.56,0.018,150.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4846
+11.13,0.035,110.81,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR8561
+10.59,0.089,174.27,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7748
+13.46,0.162,159.2,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR518
+15.98,0.016,176.26,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7965
+13.09,0.112,123.09,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5056
+9.26,0.043,102.67,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR2860
+15.09,0.058,117.38,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2770
+7.8,0.036,131.56,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2036
+10.94,0.16,138.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4569
+10.28,0.143,147.44,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4347
+12.95,0.162,157.08,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7963
+9.68,0.16,137.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1576
+11.8,0.046,164.82,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3256
+13.19,0.053,196.63,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6450
+14.0,0.066,136.94,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4283
+13.27,0.081,144.17,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6278
+13.68,0.018,163.02,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6043
+12.59,0.041,207.04,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6500
+13.23,0.07,175.17,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7345
+10.45,0.027,124.42,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7284
+12.86,0.149,164.67,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7962
+15.67,0.078,144.64,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR1389
+11.56,0.188,132.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7061
+12.15,0.107,118.28,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6821
+15.96,0.08,176.87,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC3527
+17.65,0.072,173.66,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6720
+13.19,0.186,135.29,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5739
+11.53,0.14,176.53,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR6598
+12.18,0.017,168.17,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD808
+13.28,0.073,154.5,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7223
+15.19,0.022,208.18,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5126
+10.41,0.045,94.13,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD8289
+11.82,0.162,184.56,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7898
+11.57,0.065,111.84,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD8179
+9.16,0.047,123.95,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1560
+10.14,0.01,95.25,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4588
+12.76,0.094,100.44,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7616
+9.86,0.116,95.57,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD4980
+13.08,0.052,202.0,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC35
+15.16,0.104,174.94,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2543
+11.11,0.016,168.41,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3114
+12.12,0.102,134.17,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7766
+11.66,0.046,156.04,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3352
+12.22,0.02,135.23,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5026
+13.16,0.011,130.22,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7849
+14.43,0.016,149.64,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4777
+9.26,0.021,83.38,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD5329
+13.19,0.062,160.97,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7606
+13.99,0.029,194.61,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD8683
+10.25,0.064,93.78,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6591
+12.47,0.04,151.92,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7334
+13.1,0.142,194.13,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4500
+11.48,0.107,112.69,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4802
+10.74,0.175,151.56,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7001
+11.94,0.089,97.93,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC2197
+15.45,0.036,166.22,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC2775
+13.66,0.018,195.78,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3178
+11.03,0.028,172.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2158
+10.64,0.144,150.91,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5936
+9.98,0.129,110.72,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD8244
+11.3,0.099,90.06,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR8694
+14.78,0.119,152.48,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3187
+10.92,0.142,184.73,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC9
+10.69,0.093,161.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5314
+12.41,0.039,133.28,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3974
+10.15,0.087,92.32,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD5967
+15.48,0.044,155.55,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD6823
+12.06,0.165,101.07,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC3271
+15.72,0.067,175.09,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD8189
+11.75,0.03,161.68,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7576
+12.92,0.013,117.1,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1646
+11.15,0.096,156.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6212
+11.61,0.062,140.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6793
+13.1,0.031,164.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2072
+13.45,0.038,133.56,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR362
+10.96,0.137,122.25,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2173
+15.56,0.153,171.92,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5300
+12.55,0.162,157.6,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC235
+13.42,0.033,148.54,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5871
+12.76,0.036,136.48,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4784
+15.04,0.065,159.1,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC4127
+11.96,0.009,159.43,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1063
+12.95,0.128,149.98,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4405
+14.68,0.168,115.47,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3356
+14.28,0.14,144.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8215
+13.83,0.055,106.74,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3995
+11.49,0.05,143.55,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4960
+9.71,0.008,145.5,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5066
+8.26,0.116,94.18,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD6535
+13.75,0.038,150.43,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD711
+16.64,0.015,172.08,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD4410
+8.58,0.056,153.47,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1737
+12.51,0.021,142.41,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4766
+11.47,0.052,148.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2680
+10.72,0.025,104.39,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1116
+12.1,0.094,151.61,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7732
+11.68,0.12,129.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1079
+14.2,0.054,112.5,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6149
+13.23,0.031,157.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3562
+10.71,0.066,118.97,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1202
+13.84,0.104,168.07,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5384
+12.19,0.026,106.44,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1138
+10.45,0.021,161.39,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7145
+11.16,0.087,178.04,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7990
+10.42,0.032,103.85,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3895
+13.05,0.017,163.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2876
+9.45,0.094,162.28,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD289
+12.23,0.054,152.83,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5453
+13.07,0.059,162.75,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5503
+9.45,0.035,129.31,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC208
+12.58,0.174,110.83,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5600
+11.14,0.038,138.81,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3860
+11.86,0.043,138.12,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6758
+11.98,0.085,112.33,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4193
+12.76,0.016,168.41,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3019
+11.32,0.071,149.64,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2567
+12.57,0.036,143.09,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7339
+9.23,0.091,145.85,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2437
+14.3,0.084,153.77,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3666
+16.98,0.015,188.74,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8034
+10.89,0.061,84.31,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD4708
+11.39,0.067,115.79,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5785
+12.43,0.044,160.44,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1764
+13.75,0.025,198.23,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD8093
+13.68,0.022,169.62,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3733
+11.39,0.09,148.97,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3863
+12.54,0.1,217.78,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6377
+12.91,0.035,140.6,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6537
+10.89,0.173,105.54,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD390
+12.22,0.074,135.02,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5676
+10.11,0.036,139.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5109
+11.11,0.019,112.91,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7968
+10.55,0.07,113.13,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD734
+13.07,0.037,143.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8037
+12.03,0.031,137.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2579
+10.42,0.11,128.48,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7961
+13.41,0.078,150.61,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2530
+10.71,0.096,119.7,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2068
+9.77,0.03,132.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD313
+11.0,0.173,126.72,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8707
+11.42,0.018,147.95,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4185
+7.86,0.027,110.26,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2845
+13.27,0.035,157.42,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7447
+11.91,0.098,160.78,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7754
+12.68,0.032,133.34,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8342
+9.9,0.015,85.56,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD2446
+10.42,0.034,123.46,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC6245
+9.72,0.029,142.16,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5532
+12.29,0.044,120.74,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC824
+13.91,0.076,157.43,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2782
+14.21,0.112,176.33,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC5088
+11.14,0.016,109.91,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1266
+13.92,0.054,181.48,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8592
+10.72,0.119,127.9,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1993
+13.7,0.016,136.46,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6066
+12.21,0.205,142.68,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4729
+8.18,0.065,110.71,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD7998
+14.42,0.073,154.35,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7430
+13.2,0.019,194.9,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC2257
+14.83,0.035,155.26,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR6171
+13.31,0.054,143.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3086
+13.3,0.03,156.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3383
+14.69,0.076,171.16,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8470
+9.41,0.013,121.78,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC708
+12.39,0.055,114.62,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7406
+16.36,0.103,142.17,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3920
+9.54,0.079,117.68,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR455
+12.22,0.032,137.13,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4359
+12.28,0.026,154.38,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1059
+12.44,0.061,137.09,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2626
+12.44,0.025,157.96,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6040
+13.3,0.142,166.26,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3113
+12.67,0.038,150.51,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7289
+15.1,0.17,193.93,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR397
+12.15,0.047,140.69,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1827
+13.23,0.123,109.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7602
+13.89,0.104,173.64,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1480
+12.92,0.137,106.24,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4858
+12.55,0.024,147.68,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6050
+12.5,0.081,135.26,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5160
+15.2,0.012,179.74,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD6842
+13.73,0.027,157.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD555
+10.35,0.015,109.57,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR2793
+13.66,0.076,144.64,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4883
+11.73,0.048,122.21,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR7064
+14.51,0.066,131.78,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6468
+16.67,0.017,208.21,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7695
+5.71,0.031,120.96,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4308
+12.69,0.018,136.64,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD149
+14.07,0.05,154.0,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5856
+15.78,0.083,198.38,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2277
+11.47,0.047,130.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD199
+11.29,0.021,155.86,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8079
+15.25,0.052,165.85,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR7489
+13.55,0.079,124.94,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6041
+15.91,0.092,171.64,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2801
+13.31,0.019,145.26,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6930
+12.74,0.033,168.17,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6056
+14.44,0.012,151.93,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR2739
+14.26,0.026,149.2,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1632
+13.84,0.024,125.06,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5527
+11.25,0.046,191.85,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4437
+14.17,0.064,142.1,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1638
+10.9,0.036,107.79,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD3110
+12.09,0.123,148.76,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4296
+12.77,0.094,176.93,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2182
+9.96,0.19,109.74,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC3046
+13.31,0.1,160.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1747
+9.63,0.162,108.43,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD3355
+11.72,0.022,133.1,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8529
+7.73,0.025,116.23,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5733
+13.01,0.122,138.08,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD745
+13.31,0.077,169.93,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6742
+15.12,0.058,133.4,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8251
+11.03,0.098,142.58,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7253
+8.81,0.015,142.71,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4682
+12.75,0.007,146.47,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2432
+8.91,0.108,113.78,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1219
+11.07,0.034,156.4,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5535
+13.28,0.071,127.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4986
+15.92,0.045,191.88,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD32
+8.65,0.021,118.18,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC7721
+11.44,0.029,149.79,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5700
+12.98,0.211,118.77,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6033
+14.69,0.053,152.72,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4504
+12.35,0.015,152.86,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7485
+9.61,0.026,161.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD201
+12.29,0.108,156.35,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1220
+9.72,0.047,139.61,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC1491
+12.56,0.066,145.21,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7116
+15.73,0.171,137.01,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8605
+7.86,0.064,90.25,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD8281
+15.77,0.021,144.56,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2732
+15.02,0.044,193.24,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1758
+14.57,0.077,145.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5057
+16.01,0.053,219.19,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD609
+13.24,0.131,171.54,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4595
+11.2,0.089,166.49,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4577
+13.89,0.053,182.66,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR5284
+14.41,0.019,117.74,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1841
+11.12,0.066,181.96,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR3530
+13.33,0.089,159.58,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6827
+12.57,0.168,162.39,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5644
+10.54,0.049,151.98,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR7851
+10.83,0.174,111.45,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD696
+14.5,0.072,154.7,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4703
+19.12,0.056,193.68,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3905
+14.45,0.042,170.68,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD431
+10.76,0.025,186.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5485
+12.99,0.026,126.49,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1222
+13.2,0.077,136.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3910
+7.68,0.05,67.01,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2160
+13.45,0.094,192.35,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1686
+6.8,0.191,85.64,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC3307
+13.34,0.03,160.5,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3749
+15.7,0.042,169.76,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5158
+12.69,0.113,137.99,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2272
+11.89,0.055,80.76,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR7992
+12.43,0.082,150.27,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7772
+13.64,0.12,186.28,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1622
+10.54,0.062,124.14,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4652
+12.64,0.019,165.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7740
+11.03,0.024,82.26,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD8302
+14.46,0.038,129.92,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR7350
+8.46,0.104,112.16,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4031
+13.95,0.113,143.31,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3785
+11.68,0.125,111.67,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2607
+17.35,0.047,137.15,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR3464
+15.01,0.094,164.47,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC7744
+10.41,0.17,115.64,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD7386
+7.21,0.035,147.23,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC6948
+11.69,0.076,132.88,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6280
+13.1,0.068,152.97,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7936
+16.4,0.11,171.86,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD743
+10.78,0.128,170.3,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5328
+13.04,0.028,126.64,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD14
+14.44,0.019,141.72,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3304
+12.68,0.024,140.13,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7553
+11.91,0.115,121.68,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4063
+5.81,0.053,68.8,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1345
+19.0,0.026,202.27,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7246
+7.13,0.074,83.24,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD7401
+13.94,0.03,95.32,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2798
+14.53,0.132,174.17,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6801
+8.47,0.031,73.7,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD7181
+12.88,0.026,89.6,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3570
+9.14,0.036,159.23,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2428
+9.96,0.118,120.32,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC4590
+13.58,0.178,117.91,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4922
+13.68,0.041,196.53,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5567
+14.13,0.032,162.07,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5434
+10.68,0.036,145.38,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2995
+9.79,0.1,96.07,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4375
+13.2,0.03,149.75,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5704
+13.05,0.071,133.57,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6612
+12.57,0.152,156.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3094
+11.76,0.082,180.96,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8039
+12.73,0.027,144.29,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD597
+8.87,0.088,113.03,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2676
+13.2,0.129,119.89,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8696
+14.58,0.011,144.79,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4909
+14.16,0.017,197.89,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD680
+14.68,0.041,144.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8249
+14.56,0.286,128.02,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1206
+9.47,0.052,137.5,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8016
+11.3,0.081,149.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR8490
+7.99,0.033,86.79,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD182
+15.11,0.031,198.22,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5426
+14.14,0.22,139.43,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4299
+11.65,0.058,135.76,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6320
+11.22,0.027,144.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1709
+14.41,0.186,151.56,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3053
+15.95,0.043,196.35,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8214
+12.21,0.045,182.01,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD5939
+11.35,0.023,95.79,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR6480
+11.97,0.024,139.41,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7724
+16.24,0.032,196.44,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8730
+11.65,0.119,130.74,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8492
+17.34,0.122,185.81,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6492
+12.57,0.052,119.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3742
+10.69,0.039,103.88,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2326
+11.08,0.015,143.07,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1968
+9.97,0.083,96.19,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC1857
+13.61,0.033,117.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1811
+15.1,0.012,163.27,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5859
+12.74,0.087,177.62,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5961
+7.89,0.048,110.15,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5692
+15.17,0.12,124.25,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3575
+14.51,0.055,139.9,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD753
+11.55,0.07,137.99,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4880
+13.13,0.076,203.58,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3781
+10.92,0.018,140.44,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR49
+14.83,0.071,167.45,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD6264
+9.16,0.026,86.38,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1900
+13.61,0.124,157.98,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5810
+12.84,0.011,101.99,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4483
+9.29,0.05,116.73,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD6727
+17.24,0.034,205.11,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3788
+10.17,0.005,149.66,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5356
+11.47,0.058,178.4,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5311
+12.98,0.142,178.51,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3478
+15.34,0.024,185.01,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4383
+13.07,0.045,161.18,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4331
+13.48,0.061,152.22,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7283
+7.55,0.052,98.17,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC1446
+10.55,0.08,94.69,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD5551
+11.98,0.03,146.34,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6000
+16.85,0.032,178.33,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7725
+9.76,0.044,118.38,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Beverages,DR128
+14.88,0.031,160.28,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8452
+12.5,0.032,149.26,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC4020
+14.72,0.067,175.44,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC5080
+11.01,0.117,114.6,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6860
+11.95,0.122,155.01,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6185
+11.95,0.022,226.26,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1964
+15.38,0.096,110.93,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3310
+10.46,0.084,158.78,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8651
+12.34,0.103,133.52,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6366
+10.02,0.026,115.99,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD4758
+20.27,0.021,222.71,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD966
+14.94,0.098,132.02,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7265
+10.53,0.008,142.38,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5534
+12.52,0.03,123.79,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5483
+10.18,0.062,138.8,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5280
+11.3,0.022,133.51,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5302
+11.42,0.072,131.2,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD333
+13.25,0.039,144.34,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2169
+12.46,0.042,146.24,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD504
+15.26,0.026,184.76,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC667
+9.18,0.029,98.11,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR7033
+15.54,0.027,186.52,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5217
+14.18,0.139,131.76,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8608
+12.54,0.032,158.7,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3707
+10.04,0.162,118.72,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD2747
+12.78,0.169,152.33,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6121
+12.81,0.144,166.58,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7192
+12.96,0.064,189.35,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1837
+13.74,0.078,124.69,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2315
+16.34,0.027,179.16,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1018
+13.85,0.033,159.07,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3758
+15.78,0.291,150.61,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7376
+13.61,0.044,130.29,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6005
+11.41,0.143,184.03,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD163
+15.45,0.012,191.07,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD1969
+13.84,0.176,171.83,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2610
+12.54,0.023,178.97,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2114
+13.43,0.027,170.69,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4646
+13.73,0.07,142.45,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1349
+11.75,0.042,188.18,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC356
+15.82,0.141,148.73,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD2908
+14.35,0.053,173.04,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC1522
+10.36,0.03,144.25,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD4240
+11.49,0.013,128.44,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5916
+13.93,0.044,179.57,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC1724
+12.7,0.038,170.48,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1767
+11.15,0.019,148.13,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2554
+15.62,0.036,168.9,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3935
+13.96,0.01,132.21,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3932
+10.77,0.069,145.19,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5112
+13.9,0.039,175.35,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8666
+10.06,0.127,93.41,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD102
+12.43,0.133,137.6,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3528
+15.01,0.095,199.05,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5526
+15.0,0.056,157.07,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC1905
+12.47,0.064,156.27,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6341
+9.37,0.086,157.13,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5266
+14.21,0.038,173.12,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4949
+11.78,0.066,144.41,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6740
+14.63,0.045,128.34,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5983
+14.53,0.14,154.61,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD3596
+12.77,0.082,123.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR294
+10.5,0.027,105.15,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4074
+14.57,0.021,158.74,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD3068
+10.46,0.047,97.59,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC5781
+17.06,0.1,201.66,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD232
+12.92,0.052,129.27,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2777
+11.41,0.113,143.49,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3994
+13.47,0.093,145.77,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6133
+10.67,0.084,119.7,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD7902
+11.76,0.151,116.27,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2261
+11.92,0.028,176.11,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1907
+12.52,0.119,105.32,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD152
+11.38,0.12,149.29,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR5081
+9.62,0.128,128.23,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4408
+13.68,0.024,138.77,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8482
+10.91,0.056,106.68,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5838
+18.95,0.015,222.53,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2602
+13.31,0.074,134.89,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7438
+11.16,0.052,151.76,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD986
+11.28,0.054,87.69,27,Regular,OUT002,Small,Tier 3,Food Mart,Beverages,DR6985
+15.35,0.081,162.2,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR3802
+10.76,0.126,152.18,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8022
+10.61,0.196,154.17,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5237
+12.57,0.189,217.09,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD5957
+12.44,0.02,150.39,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7599
+13.58,0.039,221.72,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD1171
+14.13,0.049,130.21,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC629
+15.66,0.053,162.81,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR4625
+12.17,0.03,146.13,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7677
+12.49,0.053,176.79,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC7065
+9.47,0.049,142.76,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD788
+8.58,0.166,113.04,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD226
+14.54,0.027,201.84,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD404
+13.08,0.128,146.35,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD90
+10.57,0.121,134.5,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6792
+13.7,0.119,175.92,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD5091
+9.99,0.09,125.79,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1479
+8.91,0.026,132.93,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2581
+11.24,0.067,94.45,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1994
+13.9,0.128,140.59,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6748
+14.34,0.043,192.42,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD6839
+10.98,0.029,163.33,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1740
+11.12,0.021,120.62,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2914
+7.64,0.019,41.84,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD5378
+13.99,0.076,71.99,27,No Sugar,OUT002,Small,Tier 3,Food Mart,Non-Consumable,NC6961
+12.82,0.066,139.09,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8387
+12.95,0.114,134.98,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3729
+11.9,0.016,137.91,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2621
+11.69,0.076,141.63,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2030
+11.56,0.027,126.98,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1548
+15.53,0.022,168.86,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD1146
+11.27,0.048,166.42,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1832
+10.78,0.037,144.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2824
+12.95,0.057,148.26,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3284
+13.3,0.009,158.76,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1518
+13.15,0.012,167.99,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2884
+16.2,0.059,108.73,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5614
+13.73,0.089,172.36,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC2002
+13.45,0.106,141.05,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5843
+13.21,0.026,120.97,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6744
+14.84,0.064,135.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7219
+14.67,0.058,166.79,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7869
+13.92,0.013,175.56,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD4560
+14.73,0.027,156.1,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR5524
+8.36,0.042,109.94,27,Regular,OUT002,Small,Tier 3,Food Mart,Fresh,FD2912
+12.94,0.027,120.3,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR6329
+15.52,0.053,173.65,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2234
+10.46,0.015,128.68,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8161
+9.74,0.036,89.74,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD1825
+10.6,0.027,91.29,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD456
+13.94,0.036,191.07,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD1559
+13.67,0.055,125.03,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6321
+11.1,0.008,153.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8107
+14.54,0.048,174.41,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD7390
+7.79,0.035,118.85,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD4816
+13.74,0.149,157.19,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8467
+17.61,0.11,159.93,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8655
+10.93,0.055,149.27,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC7625
+11.57,0.076,184.69,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1161
+7.0,0.081,142.49,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD3090
+10.39,0.041,128.16,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC5310
+10.25,0.051,156.28,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2485
+13.84,0.035,132.15,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD3779
+13.32,0.03,160.84,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7801
+10.2,0.115,127.73,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8007
+10.77,0.091,131.52,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6395
+11.79,0.038,143.49,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1153
+14.25,0.014,166.64,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC5849
+12.97,0.115,136.05,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3479
+11.32,0.034,131.74,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2328
+10.59,0.086,148.3,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD6863
+11.79,0.144,145.5,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8286
+14.49,0.011,203.67,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD5298
+11.82,0.128,98.36,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD7190
+11.53,0.083,158.53,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5443
+11.18,0.04,162.28,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC8372
+13.89,0.016,143.01,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1279
+16.46,0.071,104.02,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6327
+13.87,0.126,163.18,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD4819
+11.36,0.024,87.74,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD4974
+10.57,0.104,139.54,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2637
+16.9,0.122,243.98,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD7471
+7.98,0.042,122.15,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD1904
+14.08,0.047,173.2,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC6576
+13.54,0.1,154.55,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2678
+11.89,0.026,162.77,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2153
+11.72,0.101,116.19,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2489
+17.74,0.019,201.59,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD8218
+13.07,0.054,171.1,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC619
+12.22,0.05,158.49,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3299
+14.23,0.191,167.6,26,No Sugar,OUT003,Medium,Tier 1,Departmental Store,Non-Consumable,NC3849
+10.95,0.027,191.65,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD1246
+11.69,0.025,101.1,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD4967
+12.04,0.172,163.12,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5894
+14.55,0.049,203.96,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD2454
+10.62,0.036,195.34,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8551
+10.74,0.126,149.78,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD4177
+9.5,0.033,118.06,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD8248
+15.05,0.016,154.62,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD4105
+13.56,0.027,151.12,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2061
+12.91,0.044,131.29,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD7444
+12.06,0.058,131.64,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD6356
+16.67,0.033,233.57,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD6994
+14.28,0.084,148.82,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC6689
+12.95,0.076,157.84,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2768
+12.46,0.085,187.7,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Beverages,DR23
+20.65,0.106,223.98,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD8203
+12.59,0.032,153.59,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1895
+10.89,0.032,147.02,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD617
+15.76,0.128,177.51,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Beverages,DR1005
+14.41,0.03,146.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3797
+14.6,0.015,147.56,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD3536
+10.62,0.096,117.65,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD2939
+10.42,0.091,155.82,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC3583
+14.4,0.138,172.66,26,Low Sugar,OUT003,Medium,Tier 1,Departmental Store,Fresh,FD3899
+9.84,0.033,129.24,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Fresh,FD8498
+10.49,0.142,136.7,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD7010
+13.81,0.122,134.94,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD8640
+11.01,0.147,92.24,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Fresh,FD6086
+12.48,0.066,109.64,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD891
+9.59,0.068,105.51,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD780
+11.36,0.069,165.22,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Beverages,DR4064
+8.31,0.031,92.66,27,Low Sugar,OUT002,Small,Tier 3,Food Mart,Packaged,FD2827
+14.8,0.055,130.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2382
+12.77,0.083,175.12,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC4765
+10.32,0.025,122.2,38,Regular,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2387
+12.91,0.047,163.6,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD2019
+9.82,0.045,128.34,38,Low Sugar,OUT001,High,Tier 2,Supermarket Type1,Packaged,FD2505
+10.22,0.123,130.98,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5847
+12.0,0.149,106.22,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC1939
+12.11,0.079,132.74,16,No Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Non-Consumable,NC2661
+16.54,0.013,220.37,26,Regular,OUT003,Medium,Tier 1,Departmental Store,Packaged,FD821
+14.02,0.129,112.36,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2690
+14.12,0.051,165.15,38,No Sugar,OUT001,High,Tier 2,Supermarket Type1,Non-Consumable,NC8674
+10.3,0.134,137.82,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD1940
+12.62,0.073,136.18,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5528
+10.76,0.017,174.58,16,Regular,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD8497
+13.39,0.097,147.12,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD5801
+9.2,0.15,84.37,27,Regular,OUT002,Small,Tier 3,Food Mart,Packaged,FD1595
+11.93,0.048,174.57,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Fresh,FD5601
+11.14,0.089,174.32,16,Low Sugar,OUT004,Medium,Tier 2,Supermarket Type2,Packaged,FD2010
