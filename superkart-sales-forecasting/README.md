@@ -98,3 +98,32 @@ The objective is to **predict quarterly outlet-level sales revenue** using histo
 ---
 
 ## 📁 Repository Structure
+```plaintext
+superkart-sales-forecasting/
+│
+├── backend_files/
+│   ├── app.py
+│   ├── xgb_tuned_model.joblib
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── notebooks/
+│   └── Full_Code_SuperKart_Model_Deployment_Notebook.ipynb
+│
+├── html/
+│   └── Full_Code_SuperKart_Model_Deployment_Notebook.html
+│
+└── README.md
+```
+
+---
+
+## 🚀 Outcome
+
+This project demonstrates the deployment of a **scalable, interpretable regression system** for retail revenue forecasting.  
+It bridges **exploratory data analysis, model benchmarking, and full-stack deployment** to deliver actionable insights and operational value for SuperKart’s national retail strategy.
